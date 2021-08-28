@@ -1,0 +1,205 @@
+.op{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+.navbar-brand{
+    color: white;
+    font-size: 3rem !important;
+}
+.nav-link{
+    font-size: 1.6rem;
+    padding: 1rem 1.5rem !important;
+    transition: .5s;
+}
+img{
+   height: 522px;
+   width: auto;
+}
+.carousel-caption{
+    position: absolute;
+    top: 18rem;
+    text-align: left;
+}
+.carousel-item h1{
+    color: white;
+}
+.carousel-item p{
+    color: white;
+    font-size: 1.5rem;
+    max-width: 60rem;
+}
+.carousel-item .btn{
+    background: purple;
+    color: white;
+}
+.carousel-item .btn:hover{
+    background: yellow;
+    color: black;
+}
+.carousel-caption .card{
+    background-color: transparent;
+}
+.ok{
+    padding-left: 118px;
+}
+.op{
+    margin-left: 295px;
+}
+@media screen and (min-device-width: 121px) and (max-device-width: 621px){
+    .d-md-block {
+        display: block !important;
+    }
+    .carousel-item h1{
+        color: white;
+        font-size: 24px;
+    }
+    .carousel-item p{
+        color: white;
+        font-size: 11px;
+    }
+    .carousel-item .btn{
+        background: purple;
+        color: white;
+        font-size: 0.8rem;
+    }
+    .carousel-caption{
+        position: absolute;
+        top: 150px;
+    }
+    .ok{
+        padding-left: 0px;
+    }
+    .op{
+        margin-left: 0px;
+    }
+    .opppp{
+        margin: 20px 0px 20px 0px;
+    }
+}
+#heading{
+    text-align: center;
+    margin-top: 50px;
+}
+.car_umb{
+    margin: auto;
+    margin-top: 56px;
+    border: none;
+}
+.car_umb img{
+    height: 177px;
+    width: auto;
+    opacity: 0.4;
+}
+.car_umb h4{
+    font-size: 1.6rem;
+    color: #adadad;
+}
+.card{
+    border: none;
+}
+.icon{
+    text-align: center;
+    height: 6rem;
+    width: 6rem;
+    border-radius: 50%;
+    background: #82589F;
+    margin: 1rem 0;
+    display: block;
+    margin: auto;
+}
+.icon i{
+    font-size: 2rem;
+    line-height: 6rem;
+    color: #fff;
+}
+.opppp .card-title{
+    margin: auto;
+    text-align: center;
+    padding-bottom: 14px;
+    font-size: 1.8rem !important;
+    color: #82589F;
+    font-weight: 600;
+}
+
+.card-text{
+        /* text-align: center; */
+        font-size: 1.2rem;
+        color: #b2bec3;
+}
+.opppp .btn{
+    margin-left: 38px;
+}
+hr{
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0,0,0,.1);
+    width: 56%;
+}
+.card-body .btn{
+    background: #fed330;
+    color: black;
+    transition: 0.5s;
+}
+.card-body .btn:hover{
+    background: purple;
+    
+    color: white;
+    transition: 0.5s;
+}
+#heading1{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.io{
+    margin: auto;
+    overflow: hidden;
+}
+.sumn{
+    margin: auto;
+    background:  #e7e9eb;
+    
+}
+.sumn:hover{
+    background: #fed330;
+    transition: 0.5s;
+}
+.sumn img{
+    height: 20rem !important;
+    width: auto !important;
+    background-size: cover !important;
+    background-position: center !important;
+}
+.pi{
+    height: 100vh;
+}
+.carousel-indicators li{
+    height: 0.6rem;
+    width: 0.6rem;
+    border-radius: 50%;
+}
+.col-sm-3{
+    padding: 0px;
+}
+.ghy{
+    text-align: center;
+}
+.ghy ul{
+    list-style: none;
+}
+.ghy h5{
+    font-size: 1.25rem;
+    margin-left: 18px;
+}
+.ghy p{
+    font-size: 1.15rem;
+    margin-left: 32px;
+    color: #adadad;
+}
+.tyu{
+    margin-left: 124px;
+    margin-right: 124px;
+}
